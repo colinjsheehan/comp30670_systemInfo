@@ -28,7 +28,7 @@ Features
 
 * This is a private package the give details of whatever machine it is running on.
 
-Steps::
+Steps:
 
   1) Clone from github
 
