@@ -49,7 +49,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/colinjsheehan/sysinfo',
+    url='https://github.com/colinjsheehan/comp30670_systeminfo',
     version='0.2.0',
     zip_safe=False,
 )
