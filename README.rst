@@ -28,10 +28,14 @@ Features
 
 * This is a private package the give details of whatever machine it is running on.
 
-Steps :
-1) Clone from github
-2) Install the module from its ``setup.py`` readme_file
-3) Run ``sysinfo.get_platform_info()`` in Python terminal
+Steps::
+
+  1) Clone from github
+
+  2) Install the module from its ``setup.py`` readme_file
+
+  3) Run ``sysinfo.get_platform_info()`` in Python terminal
+
 
 Credits
 -------
